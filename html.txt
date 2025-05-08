@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Política de Privacidade - ANIME 18+</title>
+</head>
+<body style="font-family: Arial, sans-serif; max-width: 800px; margin: auto;">
+    <h1>Política de Privacidade - ANIME 18+</h1>
+    <p>Última atualização: 7 de maio de 2025</p>
+
+    <p>Este aplicativo é destinado exclusivamente ao público adulto e contém conteúdo erótico e sensual de personagens fictícios de estilo anime.</p>
+
+    <h2>Coleta de Dados</h2>
+    <p>Coletamos apenas informações essenciais para autenticação de usuários, como endereço de e-mail e senha. Nenhuma informação sensível adicional é armazenada sem consentimento do usuário.</p>
+
+    <h2>Uso de Informações</h2>
+    <p>As informações coletadas são utilizadas apenas para autenticar o usuário, controlar acesso à área VIP e oferecer uma experiência personalizada no aplicativo.</p>
+
+    <h2>Conteúdo Sensível</h2>
+    <p>O conteúdo explícito é acessível somente para usuários autenticados maiores de 18 anos. Imagens explícitas são borradas para usuários não logados ou sem assinatura VIP.</p>
+
+    <h2>Compartilhamento de Dados</h2>
+    <p>Não compartilhamos suas informações pessoais com terceiros.</p>
+
+    <h2>Segurança</h2>
+    <p>Utilizamos autenticação via Firebase, garantindo segurança padrão de mercado para seus dados.</p>
+
+    <h2>Direitos do Usuário</h2>
+    <p>Você pode solicitar a exclusão de sua conta a qualquer momento entrando em contato conosco.</p>
+
+    <h2>Contato</h2>
+    <p>Em caso de dúvidas, entre em contato: <strong>anime18@app.com</strong></p>
+</body>
+</html>

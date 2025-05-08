@@ -1,0 +1,5 @@
+anime18-privacidade/
+├── index.html
+├── licenca_uso_anime18.html
+├── README.md
+└── LICENSE.txt
